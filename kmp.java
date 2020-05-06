@@ -12,9 +12,8 @@
  * O(n) - It is to compare the pattern to the text.
  * Total Runtime : O(n + m)
  * 
- * Author : ARAVIND KRISHNAKUMAR
- * 
- * Date Submitted : 12/12/2013 
+ * Author : DEBALINA DE
+ *
  * 
  */
 
